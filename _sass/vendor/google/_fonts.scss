@@ -4,23 +4,23 @@
   font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 400;
-  src: local('Source Sans Pro'), local('SourceSansPro-Regular'), url(http://fonts.gstatic.com/s/sourcesanspro/v9/ODelI1aHBYDBqgeIAH2zlNHq-FFgoDNV3GTKpHwuvtI.woff) format('woff');
+  src: local('Source Sans Pro'), local('SourceSansPro-Regular'), url('#{$font-path}/SourceSansPro-Regular.woff') format('woff');
 }
 @font-face {
   font-family: 'Source Sans Pro';
   font-style: normal;
   font-weight: 700;
-  src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'), url(http://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGIqjGYJUyOXcBwUQbRaNH6c.woff) format('woff');
+  src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'), url('#{$font-path}/SourceSansPro-Bold.woff') format('woff');
 }
 @font-face {
   font-family: 'Source Sans Pro';
   font-style: italic;
   font-weight: 400;
-  src: local('Source Sans Pro Italic'), local('SourceSansPro-It'), url(http://fonts.gstatic.com/s/sourcesanspro/v9/M2Jd71oPJhLKp0zdtTvoM_bce-VcyLJMRR1FC9qWbU8.woff) format('woff');
+  src: local('Source Sans Pro Italic'), local('SourceSansPro-It'), url('#{$font-path}/SourceSansPro-It.woff') format('woff');
 }
 @font-face {
   font-family: 'Open Sans Condensed';
   font-style: normal;
   font-weight: 600;
-  src: local('Open Sans Condensed Bold'), local('OpenSans-CondensedBold'), url(http://fonts.gstatic.com/s/opensanscondensed/v10/gk5FxslNkTTHtojXrkp-xM6Eyu0BCqAfob_z3hhzRFzr7w4p9aSvGirXi6XmeXNA.woff) format('woff');
+  src: local('Open Sans Condensed Bold'), local('OpenSans-CondensedBold'), url('#{$font-path}/OpenSans-CondensedBold.woff') format('woff');
 }
