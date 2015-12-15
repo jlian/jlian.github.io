@@ -7,10 +7,10 @@
    ========================================================================== */
 
 $font-path: "../fonts" !default;
-$doc-font-size: 16;
+$doc-font-size: 14;
 $doc-line-height: 24;
 $paragraph-indent: false !default;
-$base-font: Helvetica, Arial, sans-serif;
+$base-font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $heading-font: 'Open Sans Condensed', sans-serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
