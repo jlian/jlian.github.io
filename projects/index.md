@@ -86,4 +86,5 @@ I also developed a numerical simulator used to compare theoretical trajectories 
 
 A silly little game we developed in Java. It has multi player and level progression.
 
+<div markdown="0"><a href="https://github.com/jlian/super-smashteroids" class="btn btn-info"><i class="fa fa-fw fa-github"></i> View on GitHub</a></div>
 
