@@ -50,6 +50,11 @@ I completed an honours mechanical engineering thesis under Prof. Andrew Higgins.
 
 With the help of open-source algorithms, I developed a user-friendly MATLAB application that could reliably and accurately track particles in video footages. 
 
+<figure>
+	<a href="/images/particle-tracker-in-action.png"><img src="/images/particle-tracker-in-action.png"></a>
+	<figcaption>The MATLAB particle tracker in action </figcaption>
+</figure>
+
 <div markdown="0"><a href="https://github.com/jlian/matlab-particle-tracker" class="btn btn-info"><i class="fa fa-fw fa-github"></i> View on GitHub</a></div>
 
 #### Magnets Suspension Device
