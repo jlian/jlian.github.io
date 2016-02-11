@@ -48,7 +48,7 @@ I completed an honours mechanical engineering thesis under Prof. Andrew Higgins.
 
 #### MATLAB Particle Tracker
 
-With the help of open-source algorithms, I developed a user-friendly MATLAB application that could reliably and accurately track particles in video footages. 
+With the help of open-source algorithms, I developed a user-friendly MATLAB application that could reliably and accurately track particles in videos. 
 
 <figure>
 	<a href="/images/particle-tracker-in-action.png"><img src="/images/particle-tracker-in-action.png"></a>
