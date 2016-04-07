@@ -17,7 +17,7 @@ image:
 
 ### Program Coordinator at FRC Team 4955 LA Tech
 
-Durring my undergrad, I helped [Lakeside Academy](http://lakesideacademy.lbpsb.qc.ca) found the team in the 2014 [*FIRST* Robotics Competition](http://www.firstinspires.org/robotics/frc) season as a full-time student. We went from having absolutely no experience in robotics to finishing *Ethel*, our first robot, in under two months. 
+As a full-time student, I helped [Lakeside Academy](http://lakesideacademy.lbpsb.qc.ca) found the team in the 2014 [*FIRST* Robotics Competition](http://www.firstinspires.org/robotics/frc) season. We went from having absolutely no experience in robotics to finishing *Ethel*, our first robot, in under two months. 
 
 I served as the leader of the 40-person team responsible for integrating the Mechanical, Software, Electrical functions into our robots. In particular, I was most involved in the Mechanical side, completing most of the detail design using SolidWorks with custom as well as COTS parts. I also coordinated the six-week build seasons from a project management perspective, handling priorities, timeline, and budgeting.
 
