@@ -17,11 +17,11 @@ image:
 
 ### Program Coordinator at FRC Team 4955 LA Tech
 
-I helped Lakeside Academy form the team in the 2013/2014 FRC season. We went from having absolutely no experience in robotics to finishing *Ethel*, our first robot, in under two months. 
+I helped Lakeside Academy found the team in the 2013/2014 FRC season. We went from having absolutely no experience in robotics to finishing *Ethel*, our first robot, in under two months. 
 
-I served as the leader of the 30-person team responsible for integrating the Mechanical, Software, Electrical functions into our robots. In particular, I was most involved in the Mechanical side, completing most of the detail design using SolidWorks with custom as well as COTS parts. 
+I served as the leader of the 40-person team responsible for integrating the Mechanical, Software, Electrical functions into our robots. In particular, I was most involved in the Mechanical side, completing most of the detail design using SolidWorks with custom as well as COTS parts. I also coordinated the six-week build seasons from a project management perspective, handling priorities, timeline, and budgeting.
 
-At the same time, I focused on long-term sustainability of the team by installing a positive team culture, creating a friendly environment, and helping members learn useful skills. Under my leadership, we went from zero to multi-function robot in one season, and saw 100% return rate the next.
+At the same time, I focused on long-term sustainability of the team by installing a positive team culture, creating a friendly environment, and helping members learn useful skills. It was really important for me to maximize student learning from the robots, and not necessarily the competitive edge. This meant that we tried to build the robots to incorporate as many functions as possible given our resources. Under my leadership, we went from zero to multi-function robot in one season, and saw 100% return rate the next.
 
 #### *Ethel*
 
