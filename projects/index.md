@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work
+title: Projects
 image:
   feature: work.jpg
 ---
