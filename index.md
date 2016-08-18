@@ -3,7 +3,7 @@ layout: page
 description: "John Lian"
 tags: [John Lian, Engineering]
 image:
-  feature: vietnam.jpg
+  feature: seattle.jpg
 ---
 
 I'm a Program Manager at Microsoft, working on the Azure billing system. In my downtime I am an avid tourist, tech enthusiast, and wanna-be photographer. 
