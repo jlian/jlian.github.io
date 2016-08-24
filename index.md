@@ -1,7 +1,7 @@
 ---
 layout: page
 description: "John Lian"
-tags: [John Lian, Engineering]
+tags: [John Lian, engineering, PM, product management, program management, robotics]
 image:
   feature: seattle.jpg
 ---
