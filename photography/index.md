@@ -7,7 +7,7 @@ image:
   feature: cambodia.jpg
 ---
 
-I enjoy taking photos mainly for my own amusement.
+I enjoy taking photos for my own viewing. I'm also a strong believer in creative commons and sharing my work for everyone.
 
 ### Wikimedia Commons
 
