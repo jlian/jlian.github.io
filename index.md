@@ -6,8 +6,13 @@ image:
   feature: seattle.jpg
 ---
 
-I'm John Lian. I work as a PM at Microsoft and currently live in Seattle. This website is where I discuss some of my projects, showcase my (free!) photography work, and share contact information.
+Hi I'm John Lian. I'm a PM at [Microsoft](https://azure.microsoft.com/) and currently live in Seattle. Here's where I discuss some of my projects, showcase my (free!) photography work, and share contact information.
 
-Before Microsoft, I interned at Bombardier Aerospace and Suncor Energy as a student at McGill. In addition, I also did research with [Prof. Andrew Higgins](https://www.mcgill.ca/mecheng/facultystaff/staff/andrewhiggins), and played in the [McGill Fight Band](http://www.mcgillathletics.ca/sports/2012/12/6/GEN_1206121625.aspx). 
+Before Microsoft, I studied at Mechanical Engineering at McGill, where I 
 
-I'm a huge fan of *FIRST* Robotics Competition (FRC). I helped found [FRC Team 4955 LA Tech](http://www.frc4955.com) and served as the lead mentor. 
+- Interned at [Bombardier](http://commercialaircraft.bombardier.com/en/cseries.html) and [Suncor](http://www.suncor.com)
+- Did research with [Prof. Andrew Higgins](https://www.mcgill.ca/mecheng/facultystaff/staff/andrewhiggins)
+- Played in the [McGill Fight Band](http://www.fightband.com). 
+- Founded [FRC Team 4955 LA Tech](http://www.frc4955.com) and served as the lead mentor. 
+
+I'm a huge fan of *FIRST* Robotics Competition (FRC). It's the best thing ever.
