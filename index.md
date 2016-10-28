@@ -8,7 +8,7 @@ image:
 
 Hi I'm John Lian. I'm a PM at [Microsoft](https://azure.microsoft.com/) and currently live in Seattle. Here's where I discuss some of my projects, showcase my (free!) photography work, and share contact information.
 
-Before Microsoft, I studied at Mechanical Engineering at McGill, where I 
+Before Microsoft, I studied at Mechanical Engineering at [McGill](http://www.mcgill.ca), where I 
 
 - Interned at [Bombardier](http://commercialaircraft.bombardier.com/en/cseries.html) and [Suncor](http://www.suncor.com)
 - Did research with [Prof. Andrew Higgins](https://www.mcgill.ca/mecheng/facultystaff/staff/andrewhiggins)
