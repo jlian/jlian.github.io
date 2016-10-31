@@ -15,4 +15,4 @@ Before Microsoft, I studied at Mechanical Engineering at [McGill](http://www.mcg
 - Played in the [McGill Fight Band](http://www.fightband.com)
 - Founded [FRC Team 4955 LA Tech](http://www.frc4955.com) and served as the lead mentor
 
-I'm a huge fan of *FIRST* Robotics Competition (FRC). It's the best thing ever.
+I'm a huge fan of [*FIRST* Robotics Competition (FRC)](http://www.firstinspires.org/robotics/frc). It's the best thing ever.
