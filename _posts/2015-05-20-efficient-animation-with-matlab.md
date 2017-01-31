@@ -7,7 +7,7 @@ tags: [MATLAB, thesis]
   feature: latech.jpg -->
 ---
 
-I used animation to help me visualize some of the work I did for my [honours thesis](/work/thesis.pdf) (PDF warning). Prior to [MATLAB R2014b's major graphics changes](http://www.mathworks.com/help/matlab/graphics-changes-in-r2014b.html), it wasn't exactly easy to create efficient animations with MATLAB, so I spent some time figuring out the best way to do it. This is what I had in the end:
+I used animation to help me visualize some of the work I did for my [honours thesis](/projects/thesis.pdf) (PDF warning). Prior to [MATLAB R2014b's major graphics changes](http://www.mathworks.com/help/matlab/graphics-changes-in-r2014b.html), it wasn't exactly easy to create efficient animations with MATLAB, so I spent some time figuring out the best way to do it. This is what I had in the end:
 
 <figure>
 	<a href="/matlab-animation/shock.gif"><img src="/matlab-animation/shock.gif"></a>
