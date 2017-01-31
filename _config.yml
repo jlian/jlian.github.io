@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            John Lian | Hi
+title:            John Lian
 locale:           en_US
 # url:              http://localhost:4000 #default
 # url:              http://jlian.co
@@ -10,12 +10,12 @@ owner:
   name:           John Lian
   avatar:         bio-photo.jpg
   bio:            "Microsoft PM, Robotics Engineer, Tech Enthusiast"
-  # email:          john.lian@mail.mcgill.ca
+  # email:          jlian@microsoft.com
   # Social networking links
   # twitter:        jlian
   # facebook:       jlian
   github:         jlian
-  linkedin:       johnlian1
+  linkedin:       jlian1
   # youtube:        lianguanlun
   instagram:      __jlian__
 
