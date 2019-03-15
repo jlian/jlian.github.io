@@ -16,3 +16,5 @@ Before Microsoft, I studied at Mechanical Engineering at [McGill](http://www.mcg
 - Did research with [Prof. Andrew Higgins](https://www.mcgill.ca/mecheng/facultystaff/staff/andrewhiggins)
 
 Now that I live in Seattle, I've been volunteering at [FRC Team 1983 Skunkworks Robotics](https://skunkworks.wildapricot.org) as a mechanical design mentor.
+
+*This website is old and no longer maintained. Check out my [new website](https://jlian.co)!*
